@@ -12,7 +12,7 @@ import {Text} from 'react-native';
 export default Teste; */
 
 function App() {
-  return <Test>Primeiro Componente 1</Test>;
+  return <Text>Primeiro Componente 1</Text>;
 }
 
 export default App;
