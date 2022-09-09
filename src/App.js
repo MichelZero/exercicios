@@ -5,8 +5,14 @@ import {Text} from 'react-native';
 // o nome do componente vamos iniciar em maiculos e pode ser qq nome.
 // o nome App não tem nada haver com o nome do arquivo, podemos usar
 // Teste, desde que exporte Teste
-function Teste() {
+/* function Teste() {
   return <Text>Primeiro Componente</Text>;
 }
 
-export default Teste;
+export default Teste; */
+
+function App() {
+  return <Test>Primeiro Componente 1</Test>;
+}
+
+export default App;
