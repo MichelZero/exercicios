@@ -10,7 +10,7 @@ import {View} from "react-native";
 
 /* function Teste() {
   return <Text>Primeiro Componente</Text>;
-}
+};
 
 export default Teste; */
 
