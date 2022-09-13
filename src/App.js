@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 // import {Text} from 'react-native';
 
@@ -16,7 +16,7 @@ export default Teste; */
 
 function App() {
   // return <Text>Primeiro Componente 1</Text>;
-  return <View> 
+  return <View>Primeiro</View>;
 }
 
 export default App;
